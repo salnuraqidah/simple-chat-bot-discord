@@ -9,4 +9,7 @@
 - source bot-env/bin/activate
 - python3 example_bot.py
 
+<div align="center">
+  <img src="image/example.png" width="400px" alt="example"</img>
+</div>
 

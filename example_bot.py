@@ -19,7 +19,7 @@ client = commands.Bot(
     intents=intents,
 )
 
-TOKEN = 'MTA4MzczMzA5MjU3NDk2OTkxNg.Ge9NIf.0XwE9O6jr-eWjYm4CRMiG_bCQsNNUCH8uPFId4'
+TOKEN = 'MTA4MzczMzA5MjU3NDk2OTkxNg.GVuWD1.QhZUi0Gl4asPmsgfDec8PtMsjeRAM7vRpeZ4FU'
 @client.event
 async def on_ready():
   print(f'We have logged in as {client.user}')
